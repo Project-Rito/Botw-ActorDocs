@@ -1,0 +1,6 @@
+DOCS Item_Fruit_A :
+An apple. Can be attached to trees.
+
+BasicSig Behaviour:
+Apples will drop when receiving a BasicSig.
+:
