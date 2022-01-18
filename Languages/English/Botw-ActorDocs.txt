@@ -1,5 +1,5 @@
 DOCS Item_Fruit_A :
-An apple. Can be attached to trees.
+An apple. Can be attached to trees with a BAndSCs link.
 
 BasicSig Behaviour:
 Apples will drop when receiving a BasicSig.
